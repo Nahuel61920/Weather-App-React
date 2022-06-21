@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background: url("https://thumbs.dreamstime.com/b/two-colour-multi-hexagonal-line-pattern-seamless-repeat-background-could-be-used-background-pattern-white-light-blue-multi-115123202.jpg");
+  background-size: contain;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}

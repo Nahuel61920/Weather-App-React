@@ -1,0 +1,40 @@
+.search {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
+
+.search input {
+  width: 60%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.search .buttonSearch {
+  width: 40%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background: rgb(9, 90, 121);
+  background: linear-gradient(
+    90deg,
+    rgba(9, 90, 121, 1) 17%,
+    rgba(15, 31, 149, 1) 68%
+  );
+  cursor: pointer;
+  color: #fff;
+}
+
+.search .buttonSearch:hover {
+  background: rgb(15, 31, 149);
+  background: linear-gradient(
+    90deg,
+    rgba(15, 31, 149, 1) 17%,
+    rgba(9, 90, 121, 1) 68%
+  );
+}
