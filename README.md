@@ -1,3 +1,5 @@
-# Portfolio Nahuel61920 1.7.0 🖥️
+# Weather App
+
+### Weather app created in the bootcamp Henry
 
 ![preview img](/preview.png)

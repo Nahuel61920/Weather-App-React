@@ -1,0 +1,33 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1a1a1a;
+  padding: 10px;
+  width: 100%;
+}
+.navTitle {
+  display: flex;
+  gap: 30px;
+  color: #fff;
+}
+
+.navTitle h2 {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #fff;
+  white-space: pre;
+  align-items: center;
+}
+
+.navAbout h3 {
+  font-size: 1em;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  padding: 0 1em;
+}
+
+.navAbout h3:hover {
+  color: #00DDEB;
+}

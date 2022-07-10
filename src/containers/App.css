@@ -1,0 +1,17 @@
+:root{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background: url("../img/5053309.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}

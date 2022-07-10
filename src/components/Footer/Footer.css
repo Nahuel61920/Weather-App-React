@@ -1,0 +1,40 @@
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: #1a1a1a;
+    border-top: 1px solid #000;
+    padding: 0 8% ;
+    color: #fff;
+}
+
+.site-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-footer .copyright{
+    font-size: .8em;
+    padding: 0.5rem 0;
+}
+
+.redes-sociales{
+    padding: 0.5rem 0;
+}
+
+.redes-sociales a{
+    font-size: 1.5em;
+    padding-left: 4rem;
+    color: #fff;
+}
+
+@media (max-width: 570px) {
+    .footer{
+        padding: .1rem 5% ;
+    }
+
+    .site-footer .redes-sociales a{
+        padding-left: 2rem;
+    }
+}
