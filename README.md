@@ -2,4 +2,4 @@
 
 ### Weather app created in the bootcamp Henry
 
-![preview img](/preview.png)
+![preview img](/src/img/preview.png)
